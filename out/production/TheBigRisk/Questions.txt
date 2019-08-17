@@ -1,0 +1,73 @@
+topic:HIGHWAYS & BYWAYS
+HIGHWAYS & BYWAYS:quest&answer:The Great River Road features many scenic sites along this river in 10 states, including Iowa & Minnesota:the Mississippi
+HIGHWAYS & BYWAYS:quest&answer:Along the route of this city's Via Dolorosa are the Stations of the Cross, each associated with an event in Jesus' life:Jerusalem
+HIGHWAYS & BYWAYS:quest&answer:You'll find the Winter Garden theatre at 1634 this street:Broadway
+HIGHWAYS & BYWAYS:quest&answer:Carl Fisher pushed the development of the coast-to-coast Lincoln Highway & in 1909 opened this Midwest facility with faster traffic:Indianapolis (Motor) Speedway
+HIGHWAYS & BYWAYS:quest&answer:Called the "Queen of Roads" in antiquity, it stretched from Rome to Brindisi on the Adriatic:the Appian Way
+topic:WORD ORIGINS
+WORD ORIGINS:quest&answer:From the Latin for "last", it's a final demand:an ultimatum
+WORD ORIGINS:quest&answer:The first "nerd" was probably the creature seen here, named by this author in his 1950 book "If I Ran the Zoo":Dr. Seuss
+WORD ORIGINS:quest&answer:The Latin for "footprint" is related to this word in the name of a federal bureau:investigation
+WORD ORIGINS:quest&answer:A wealthy person who controls a government, it comes from the Greek for "wealth", not a dwarf planet:plutocrat
+WORD ORIGINS:quest&answer:In 1630 Governor William Bradford gave this group a name meaning "strangers"; it came into common use much later:the Pilgrims
+topic:TASTY ADS & JINGLES
+TASTY ADS & JINGLES:quest&answer:"Finger lickin' good":KFC
+TASTY ADS & JINGLES:quest&answer:"Eat Fresh":Subway
+TASTY ADS & JINGLES:quest&answer:Revived in 2013, "Pardon me, would you have any...:Grey Poupon
+TASTY ADS & JINGLES:quest&answer:"Obey Your Thirst:Sprite
+TASTY ADS & JINGLES:quest&answer:"I put that" $%@! "on everything":Frank's RedHot
+topic:HISTORIC DOCUMENTS
+HISTORIC DOCUMENTS:quest&answer:The 1534 Act of Supremacy established this church with Henry VIII at its head:the Church of England
+HISTORIC DOCUMENTS:quest&answer:In 1948 this organization proclaimed the Universal Declaration of Human Rights:the United Nations
+HISTORIC DOCUMENTS:quest&answer:14 pages & hundreds of names long, this title subject of an Oscar-winning film was put on eBay in 2013:Schindler's list
+HISTORIC DOCUMENTS:quest&answer:One of the oldest known legal codes is this Babylonian one from around 1760 B.C.:the Hammurabi code
+HISTORIC DOCUMENTS:quest&answer:Watery charter of mutual support & postwar cooperation jointly declared by Churchill & Roosevelt in 1941:Atlantic Charter
+topic:DEALER'S CHOICE
+DEALER'S CHOICE:quest&answer:Wilhelm Roentgen won the 1901 Nobel Prize in Physics for his discovery of these rays:X-Rays
+DEALER'S CHOICE:quest&answer:The Vulcans play for U.H. Hilo, this school with an active volcano next door:the University of Hawaii
+DEALER'S CHOICE:quest&answer:The 1932 Bela Lugosi classic "White Zombie" is set in this traditional Caribbean zombie homeland:Haiti
+DEALER'S CHOICE:quest&answer:Pablo Picasso said that "the genius of" this man "leads to Hiroshima":(Albert) Einstein
+DEALER'S CHOICE:quest&answer:A journalist's source who wants to remain anonymous may speak "on" this, or even "on deep" this:background
+topic:JUST DEAL!
+JUST DEAL!:quest&answer:Contract & auction are types of this card game:bridge
+JUST DEAL!:quest&answer:Klondike is a type of this card game also called patience:solitaire
+JUST DEAL!:quest&answer:The 3 initial community cards that are dealt in Texas Hold 'Em are called this, though they're not always a fiasco:the flop
+JUST DEAL!:quest&answer:Originating in Uruguay, this rummy-like card game means "basket" in Spanish:canasta
+JUST DEAL!:quest&answer:The croupier deals the cards in this casino game whose French name means "railroad", referring to the speed of the game:chemin-de-fer
+topic:YOU AUTO KNOW
+YOU AUTO KNOW:quest&answer:An automobile odor eliminator from Chemical Guys is named for this 3-word quality of fresh vehicles:new car smell
+YOU AUTO KNOW:quest&answer:This feature that amplifies turning force makes parallel parking a lot easier:power steering
+YOU AUTO KNOW:quest&answer:"Let's get ready to" sit in this folding outside seat in the back of some early automobiles:a rumble seat
+YOU AUTO KNOW:quest&answer:In 2013 Toyota sold its 40 millionth of this model, accounting for 1 in 5 of all Toyotas ever sold worldwide:the Corolla
+YOU AUTO KNOW:quest&answer:After being in a car accident with his wife & daughter in 1952, John Hetrick was inspired to invent these:air bags
+topic:MILITARY NICKNAMES
+MILITARY NICKNAMES:quest&answer:To his troops this WWII general was "Dugout Doug" because he was rarely seen out of his tunnels in Corregidor:(Douglas) MacArthur
+MILITARY NICKNAMES:quest&answer:When banished to Elba, he told his people he'd return with the violets & he did, receiving the nickname "Corporal Violet":Napoléon
+MILITARY NICKNAMES:quest&answer:German general Heinz Guderian was called the "Father of" this lightning war:Blitzkrieg
+MILITARY NICKNAMES:quest&answer:This British field marshal was "Monty" & the "Spartan General", for his Spartan habits:Montgomery
+MILITARY NICKNAMES:quest&answer:He said his people called him the "Victor of Tampico" but Davy Crockett probably had a few other nicknames for him:(Antonio López de) Santa Anna
+topic:DOUBLE DOUBLE LETTERS
+DOUBLE DOUBLE LETTERS:quest&answer:Aphrodite or Artemis:goddess
+DOUBLE DOUBLE LETTERS:quest&answer:No mask, but the kinkajou seen here is a member of this animal family:raccoon
+DOUBLE DOUBLE LETTERS:quest&answer:It's the only state with exactly 2 pairs of double letters:Massachusetts
+DOUBLE DOUBLE LETTERS:quest&answer:Oui, it's a clasp for holding a girl's hair in place:a barrette
+DOUBLE DOUBLE LETTERS:quest&answer:Withhold from publication, or stop a rebellion:suppress
+topic:SLEUTHS & THEIR CREATORS
+SLEUTHS & THEIR CREATORS:quest&answer:Sherlock Holmes:Sir Arthur Conan Doyle
+SLEUTHS & THEIR CREATORS:quest&answer:Jesse Stone & Spenser (for hire):Robert Parker
+SLEUTHS & THEIR CREATORS:quest&answer:Philip Marlowe:(Raymond) Chandler
+SLEUTHS & THEIR CREATORS:quest&answer:Adam Dalgliesh:P.D. James
+SLEUTHS & THEIR CREATORS:quest&answer:Jane Rizzoli:Tess Gerritsen
+
+
+
+
+
+
+
+
+
+
+
+
+

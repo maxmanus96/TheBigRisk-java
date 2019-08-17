@@ -1,0 +1,99 @@
+File file=new File("C:\\Users\\msý\\IdeaProjects\\TheBigRisk\\src\\Topics.txt");
+        FileReader fileReader = null;
+        try {
+            fileReader = new FileReader(file);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        String line;
+        BufferedReader br = new BufferedReader(fileReader);
+        Font fnt=new Font("Times New Roman",Font.BOLD,15);
+
+        try {
+            int i=1;
+            while ((line = br.readLine()) != null) {
+                switch (i){
+                    case 1:
+                        txt1.setEnabled(true);
+                        txt1.setEditable(false);
+                        txt1.setFont(fnt);
+                        txt1.setLineWrap(true);
+                        txt1.setWrapStyleWord(true);
+                        txt1.setAlignmentX(CENTER_ALIGNMENT);
+                        txt1.setAlignmentY(CENTER_ALIGNMENT);
+                        txt1.setLayout(new BorderLayout());
+                        txt1.setText("\t\t\t\t\t\t\t\t\t\t\t"+line);
+                        txt1.setBorder(new LineBorder(Color.BLACK,1,false));
+
+                    case 2:
+                        txt2.setEnabled(true);
+                        txt2.setEditable(false);
+                        txt2.setFont(fnt);
+                        txt2.setLineWrap(true);
+                        txt2.setWrapStyleWord(true);
+                        txt2.setAlignmentX(CENTER_ALIGNMENT);
+                        txt2.setAlignmentY(CENTER_ALIGNMENT);
+                        txt2.setLayout(new BorderLayout());
+                        txt2.setText("\t\t\t\t\t\t\t\t\t\t\t"+line);
+                        txt2.setBorder(new LineBorder(Color.BLACK,1,false));
+
+                    case 3:
+                        txt3.setEnabled(true);
+                        txt3.setEditable(false);
+                        txt3.setFont(fnt);
+                        txt3.setLineWrap(true);
+                        txt3.setWrapStyleWord(true);
+                        txt3.setAlignmentX(CENTER_ALIGNMENT);
+                        txt3.setAlignmentY(CENTER_ALIGNMENT);
+                        txt3.setLayout(new BorderLayout());
+                        txt3.setText("\t\t\t\t\t\t\t\t\t\t\t"+line);
+                        txt3.setBorder(new LineBorder(Color.BLACK,1,false));
+                        //txt3.setBackground(btn1.getBackground());
+                        /*btn3.setText(line);
+                        btn3.setMargin(new Insets(0,0,0,0));
+                        break;*/
+                    case 4:
+                        //txt1.setText(line);
+                        txt4.setEnabled(true);
+                        txt4.setEditable(false);
+                        txt4.setFont(fnt);
+                        txt4.setLineWrap(true);
+                        txt4.setWrapStyleWord(true);
+                        txt4.setAlignmentX(CENTER_ALIGNMENT);
+                        txt4.setAlignmentY(CENTER_ALIGNMENT);
+                        txt4.setLayout(new BorderLayout());
+                        txt4.setText("\t\t\t\t\t\t\t\t\t\t\t"+line);
+                        txt4.setBorder(new LineBorder(Color.BLACK,1,false));
+
+
+
+                        /*btn4.setText(line);
+                        btn4.setAutoscrolls(true);
+                        btn4.setPreferredSize(new Dimension(100,100));
+                        btn4.setMargin(new Insets(0,-1,0,20));*/
+
+
+                        break;
+                    case 5:
+                        txt5.setEnabled(true);
+                        txt5.setEditable(false);
+                        txt5.setFont(fnt);
+                        txt5.setLineWrap(true);
+                        txt5.setWrapStyleWord(true);
+                        txt5.setAlignmentX(CENTER_ALIGNMENT);
+                        txt5.setAlignmentY(CENTER_ALIGNMENT);
+                        txt5.setLayout(new BorderLayout());
+                        txt5.setText("\t\t\t\t\t\t\t\t\t\t\t"+line);
+                        txt5.setBorder(new LineBorder(Color.BLACK,1,false));
+
+                    default:
+                        System.out.println("Error");
+                        br.close();
+                        break;
+                }
+                i++;
+            }
+            br.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }

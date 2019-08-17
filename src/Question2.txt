@@ -1,0 +1,42 @@
+topic:JUST DEAL!
+quest&answer:Contract & auction are types of this card game:bridge
+quest&answer:Klondike is a type of this card game also called patience:solitaire
+quest&answer:The 3 initial community cards that are dealt in Texas Hold 'Em are called this, though they're not always a fiasco:the flop
+quest&answer:Originating in Uruguay, this rummy-like card game means "basket" in Spanish:canasta
+quest&answer:The croupier deals the cards in this casino game whose French name means "railroad", referring to the speed of the game:chemin-de-fer
+
+topic:YOU AUTO KNOW
+quest&answer:An automobile odor eliminator from Chemical Guys is named for this 3-word quality of fresh vehicles:new car smell
+quest&answer:This feature that amplifies turning force makes parallel parking a lot easier:power steering
+quest&answer:"Let's get ready to" sit in this folding outside seat in the back of some early automobiles:a rumble seat
+quest&answer:In 2013 Toyota sold its 40 millionth of this model, accounting for 1 in 5 of all Toyotas ever sold worldwide:the Corolla
+quest&answer:After being in a car accident with his wife & daughter in 1952, John Hetrick was inspired to invent these:air bags
+
+topic:MILITARY NICKNAMES
+quest&answer:To his troops this WWII general was "Dugout Doug" because he was rarely seen out of his tunnels in Corregidor:(Douglas) MacArthur
+quest&answer:When banished to Elba, he told his people he'd return with the violets & he did, receiving the nickname "Corporal Violet":Napoléon
+quest&answer:German general Heinz Guderian was called the "Father of" this lightning war:Blitzkrieg
+quest&answer:This British field marshal was "Monty" & the "Spartan General", for his Spartan habits:Montgomery
+quest&answer:He said his people called him the "Victor of Tampico" but Davy Crockett probably had a few other nicknames for him:(Antonio López de) Santa Anna
+
+
+topic:DOUBLE DOUBLE LETTERS
+quest&answer:Aphrodite or Artemis:goddess
+quest&answer:No mask, but the kinkajou seen here is a member of this animal family:raccoon
+quest&answer:It's the only state with exactly 2 pairs of double letters:Massachusetts
+quest&answer:Oui, it's a clasp for holding a girl's hair in place:a barrette
+quest&answer:Withhold from publication, or stop a rebellion:suppress
+
+
+topic:SLEUTHS & THEIR CREATORS
+quest&answer:Sherlock Holmes:Sir Arthur Conan Doyle
+quest&answer:Jesse Stone & Spenser (for hire):Robert Parker
+quest&answer:Philip Marlowe:(Raymond) Chandler
+quest&answer:Adam Dalgliesh:P.D. James
+quest&answer:Jane Rizzoli:Tess Gerritsen
+
+
+
+
+
+
